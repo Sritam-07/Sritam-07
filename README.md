@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Sritam
 
-<!--
-**Sritam-07/Sritam-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer  
+🚀 Passionate about building scalable backend systems and modern web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Hibernate / JPA
+- REST APIs
+
+**Frontend**
+- React
+- JavaScript
+- HTML
+- CSS
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- Docker
+- Maven
+
+---
+
+## 📌 Projects
+
+🔹 Job Application API – Spring Boot REST API for job management  
+🔹 Company Management System – Backend system with JPA relationships  
+🔹 Full Stack Web App – React + Spring Boot application  
+
+---
+
+## 📚 Currently Learning
+
+- Spring Security 6
+- Microservices Architecture
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sritam-das-21b897334/
+Email: dsritam04@gmail.com
