@@ -7,28 +7,15 @@
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Java
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
-
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-
-**Database**
-- MySQL
-
-**Tools**
-- Git
-- Docker
-- Maven
-
----
-
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
 ## 📌 Projects
 
 🔹 Job Application API – Spring Boot REST API for job management  
